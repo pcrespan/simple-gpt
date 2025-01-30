@@ -15,6 +15,7 @@ downloads/
 eggs/
 .eggs/
 .idea/
+models/
 lib/
 lib64/
 parts/
@@ -25,6 +26,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.pth
 MANIFEST
 
 # PyInstaller
